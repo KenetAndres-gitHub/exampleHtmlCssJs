@@ -20,8 +20,8 @@ Este es un proyecto de una hoja de vida interactiva que muestra la información 
 El proyecto contiene los siguientes archivos:
 
 - `index.html`: Archivo HTML que define la estructura de la página.
-- `styles.css`: Archivo CSS que proporciona estilos para la página.
-- `script.js`: Archivo JavaScript que añade interactividad a la página.
+- `index.css`: Archivo CSS que proporciona estilos para la página.
+- `index.js`: Archivo JavaScript que añade interactividad a la página.
 
 ## Uso
 
@@ -29,7 +29,7 @@ Para visualizar la hoja de vida interactiva, simplemente abre el archivo `index.
 
 ## Personalización
 
-Si deseas personalizar la hoja de vida con tu propia información, puedes editar el contenido en el archivo `index.html` y ajustar los estilos en el archivo `styles.css`.
+Si deseas personalizar la hoja de vida con tu propia información, puedes editar el contenido en el archivo `index.html` y ajustar los estilos en el archivo `index.css`.
 
 ## Créditos
 
